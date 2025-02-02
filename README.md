@@ -66,10 +66,4 @@ We welcome contributions! If you'd like to help improve **FocusTube**, follow th
 
 ---
 
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for more details.
-
----
-
 Enjoy a more productive YouTube experience with **FocusTube**! Stay on track with your goals and eliminate distractions effectively.
