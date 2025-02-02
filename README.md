@@ -1,4 +1,6 @@
 # FocusTube
+![FocusTube Logo](./bullseye.png)
+
 
 **Stay focused on your goals!** Filter YouTube recommendations based on your priorities and eliminate distractions.
 
