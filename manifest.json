@@ -3,7 +3,7 @@
   "name": "FocusTube",
   "version": "1.0",
   "description": "Filter YouTube recommendations based on your goals.",
-  "permissions": ["storage", "activeTab"],
+  "permissions": ["storage"],
   "host_permissions": ["https://www.youtube.com/*"],
   "action": {
     "default_popup": "popup.html",
