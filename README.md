@@ -1,4 +1,6 @@
 # FocusTube
+![FocusTube Logo](./bullseye.png)
+
 
 **Stay focused on your goals!** Filter YouTube recommendations based on your priorities and eliminate distractions.
 
@@ -63,12 +65,6 @@ We welcome contributions! If you'd like to help improve **FocusTube**, follow th
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push them to your fork.
 4. Open a **pull request** to merge your changes back into the main repository.
-
----
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for more details.
 
 ---
 
